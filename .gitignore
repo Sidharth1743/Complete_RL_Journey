@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.pt
+!AlphaZero_From_Scratch/checkpoints/model_7_ConnectFour.pt
+!AlphaZero_From_Scratch/checkpoints/optimizer_7_ConnectFour.pt
+.DS_Store
